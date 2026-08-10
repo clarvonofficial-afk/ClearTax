@@ -11,4 +11,4 @@ User-agent: Bingbot
 Allow: /
 
 # Sitemap Pointer
-Sitemap: https://www.cleartax.lk/sitemap.xml
+Sitemap: https://clarvonofficial-afk.github.io/ClearTax/sitemap.xml
